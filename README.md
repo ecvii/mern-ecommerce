@@ -6,10 +6,10 @@
 
 ## Screenshots
 
-![alt text](https://github.com/ecvii/mern-ecommerce/blob/master/screenshots/2023-01-08_113945.png?raw=true)
+![alt text](https://github.com/ecvii/mern-ecommerce/blob/master/screenshots/2023-01-12_084054.png?raw=true)
 
-![alt text](https://github.com/ecvii/mern-ecommerce/blob/master/screenshots/2023-01-08_114031.png?raw=true)
+![alt text](https://github.com/ecvii/mern-ecommerce/blob/master/screenshots/2023-01-12_084117.png?raw=true)
 
-![alt text](https://github.com/ecvii/mern-ecommerce/blob/master/screenshots/2023-01-08_114101.png?raw=true)
+![alt text](https://github.com/ecvii/mern-ecommerce/blob/master/screenshots/2023-01-12_084133.png?raw=true)
 
 
